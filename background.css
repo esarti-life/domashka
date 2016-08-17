@@ -1,0 +1,66 @@
+body {
+	text-align: center;
+	background-color: rgb(216, 174, 71);
+	background-color: rgba(216, 174, 71, .5);
+}
+
+div {
+	width: 400px;
+	height: 300px;
+	display: inline-block;
+	margin: 15px;
+}
+
+span {
+	display: block;
+}
+
+.ali {
+	background-image: url("optimizilla/Ali.jpg");
+	background-size: cover;
+}
+
+.tyson {
+	background-image: url("optimizilla/Tyson.png");
+	background-size: cover;
+}
+
+.vovchanchin {
+	background-image: url("optimizilla/vovchanchin.jpg");
+	background-size: cover;
+}
+
+.schwarzenegger {
+	background-image: url("optimizilla/schwarzenegger.jpg");
+	background-size: cover;	
+}
+
+.johnson {
+	background-image: url("optimizilla/duen_johnson.jpg");
+	background-size: cover;	
+}
+
+.lee {
+	background-image: url("optimizilla/bryus_lee.jpg");
+	background-size: cover;
+}
+
+.Celentano {
+	background-image: url("optimizilla/Adriano_Celentano.jpg");
+	background-size: cover;
+}
+
+.jobs {
+	background-image: url("optimizilla/jobs_steve.jpg");
+	background-size: cover;
+}
+
+.luther_king {
+	background-image: url("optimizilla/martin_luther_king.jpg");
+	background-size: cover;	
+}
+
+.smith {
+	background-image: url("optimizilla/will_smith.jpg");
+	background-size: cover;	
+}
