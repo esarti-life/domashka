@@ -2,13 +2,14 @@ body {
 	text-align: center;
 	background-color: rgb(216, 174, 71);
 	background-color: rgba(216, 174, 71, .5);
+	min-width: 890px;
 }
 
 div {
 	width: 400px;
 	height: 300px;
 	display: inline-block;
-	margin: 15px;
+	margin: 30px;
 }
 
 span {
